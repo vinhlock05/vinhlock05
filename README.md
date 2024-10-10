@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tôn Vĩnh Lộc</h1>
-<h3 align="center">A passionate developer from VietNam</h3>
+<h3 align="center">Currently studying at Infomation Technology University in HCM city</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Major: Software Engineering</h3>
 <p align="left">
 </p>
 

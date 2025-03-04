@@ -5,7 +5,7 @@
 <h2 align="left">🚀 Languages</h2>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cpp,cs,python,git,linux,kotlin" />
+        <img src="https://skillicons.dev/icons?i=cpp,cs,kotlin,git,gradle,linux,androidstudio" />
     </a>
 </p>
 

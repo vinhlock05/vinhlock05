@@ -23,20 +23,14 @@
 
 ---
 
-### 🏅 Achievements
-
-- 🏆 <strong>Scholarship for Outstanding Academic Performance</strong> — Semester 1, 2023–2024 (GPA: 9.27/10)
-- 🥇 Participated in multiple university-level tech competitions.
-- 🇬🇧 IELTS 6.5+
-
----
-
-### 📫 Let's Connect
+### 📫 Contact me
 
 - 💬 I’m always open to interesting projects or collaboration.
 - 📧 Email: tonvinhloc1018@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/vinhloc2k05](https://www.linkedin.com/in/ton-vinh-loc/)
+- 🔗 LinkedIn: [linkedin](https://www.linkedin.com/in/ton-vinh-loc/)
 - 🧑‍💻 GitHub: [@vinhloc2k05](https://github.com/vinhlock05)
+- 📘 Facebook: [facebook](https://www.facebook.com/loctonnnn)
+
 
 ---
 

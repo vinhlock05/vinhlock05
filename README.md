@@ -19,7 +19,7 @@
 </p>
 
 - 🔤 Languages: Kotlin, C/C++, C#, Python, JavaScript, SQL  
-- ⚙️ Tools & Technologies: .NET, WPF, FastAPI, Express.js, SQLite, PostgreSQL, Docker, Git, WebSocket
+- ⚙️ Tools & Technologies: .NET, WPF, Express.js, SQLite, PostgreSQL, Docker, Git, WebSocket
 
 ---
 
@@ -35,8 +35,8 @@
 
 - 💬 I’m always open to interesting projects or collaboration.
 - 📧 Email: tonvinhloc1018@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/vinhloc2k05](https://www.linkedin.com/in/vinhloc2k05)
-- 🧑‍💻 GitHub: [@vinhloc2k05](https://github.com/vinhloc2k05)
+- 🔗 LinkedIn: [linkedin.com/in/vinhloc2k05](https://www.linkedin.com/in/ton-vinh-loc/)
+- 🧑‍💻 GitHub: [@vinhloc2k05](https://github.com/vinhlock05)
 
 ---
 

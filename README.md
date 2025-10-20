@@ -28,7 +28,6 @@
 - 💬 I’m always open to interesting projects or collaboration.
 - 📧 Email: tonvinhloc1018@gmail.com  
 - 🔗 LinkedIn: [linkedin](https://www.linkedin.com/in/ton-vinh-loc/)
-- 🔗 ive Site: [vinhlock05.netlify.app](https://vinhlock05.netlify.app)
 - 🧑‍💻 GitHub: [@vinhloc2k05](https://github.com/vinhlock05)
 - 📘 Facebook: [facebook](https://www.facebook.com/loctonnnn)
 

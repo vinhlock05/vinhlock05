@@ -14,4 +14,4 @@ Currently focusing on building reliable APIs, working with databases, and explor
 ## Links
 - GitHub: https://github.com/vinhlock05  
 - LinkedIn: https://www.linkedin.com/in/ton-vinh-loc  
-- Email: tonvinhloc1018@gmail.com
+- Email: tonvinhloc.work@gmail.com

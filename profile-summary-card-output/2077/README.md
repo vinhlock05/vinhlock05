@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/vinhlock05/vinhlock05/master/profile-summary-card-output/2077/4-productive-time.svg)
-```
-
-    

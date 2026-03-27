@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/vinhlock05/vinhlock05/master/profile-summary-card-output/shades_of_purple/4-productive-time.svg)
+```
+
+    
